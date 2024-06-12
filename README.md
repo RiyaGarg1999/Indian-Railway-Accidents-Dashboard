@@ -1,8 +1,8 @@
 # Indian Railway Accidents Dashboard  
-Overview  
+## Overview  
 The Indian Railway Accidents Dashboard is a comprehensive tool designed to analyze and visualize data on railway accidents in India. The dashboard aims to enhance decision-making and improve user experience by providing interactive charts and real-time updates. This project is part of my training work at the Centre for Railway Information Systems (CRIS).
 
-# Table of Contents  
+## Table of Contents  
 [Introduction](#introduction)  
 [Features](#features)    
 [Technology Stack](#technology-stack)  
@@ -11,15 +11,15 @@ The Indian Railway Accidents Dashboard is a comprehensive tool designed to analy
 [Modules](#modules)  
 [Future Enhancements](#future-enhancements)  
 
-# Introduction  
+## Introduction  
 The dashboard utilizes various charts to present data in a visually appealing and comprehensible manner. Users can dynamically view data based on selected date ranges, helping identify trends and high-risk areas across different railway zones, divisions, accident categories, and more.  
 
-# Features  
+## Features  
 Interactive Charts: Doughnut, Line, Bar, and Pie charts for different accident categories.  
 Real-time Updates: Dynamic data updates based on user-selected date ranges.  
 Intuitive Design: User-friendly interface built with Material-UI and React.js.  
 
-# Technology Stack  
+## Technology Stack  
 Frontend  
 React.js  
 Material-UI  
@@ -30,10 +30,10 @@ Express.js
 Database  
 OracleDB (chosen because it is used at CRIS company)    
 
-# Project Report  
+## Project Report  
 The repository includes a detailed project report that outlines the objectives, methodology, technology stack, implementation details, and future enhancements for the Indian Railway Accidents Dashboard project.   
 
-# API Endpoints    
+## API Endpoints    
 / : Fetch all railway accident data.  
 /railway : Fetch accident data by railway zones.  
 /division : Fetch accidents data by divisions.  
