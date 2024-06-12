@@ -1,10 +1,10 @@
-#Indian Railway Accidents Dashboard
-Overview
+#Indian Railway Accidents Dashboard  
+Overview  
 The Indian Railway Accidents Dashboard is a comprehensive tool designed to analyze and visualize data on railway accidents in India. The dashboard aims to enhance decision-making and improve user experience by providing interactive charts and real-time updates. This project is part of my training work at the Centre for Railway Information Systems (CRIS).
 
-Table of Contents
-[Introduction](#introduction)
-[Features](#features)
+Table of Contents  
+[Introduction](#introduction)  
+[Features](#features)  
 [Technology Stack](#technology-stack)
 [Installation](#installation)
 [API Endpoints](#api-endpoints)
