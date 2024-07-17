@@ -15,9 +15,9 @@ The Indian Railway Accidents Dashboard is a comprehensive tool designed to analy
 The dashboard utilizes various charts to present data in a visually appealing and comprehensible manner. Users can dynamically view data based on selected date ranges, helping identify trends and high-risk areas across different railway zones, divisions, accident categories, and more.  
 
 ## Features  
-Interactive Charts: Doughnut, Line, Bar, and Pie charts for different accident categories.  
-Real-time Updates: Dynamic data updates based on user-selected date ranges.  
-Intuitive Design: User-friendly interface built with Material-UI and React.js.  
+* Interactive Charts: Doughnut, Line, Bar, and Pie charts for different accident categories.  
+* Real-time Updates: Dynamic data updates based on user-selected date ranges.  
+* Intuitive Design: User-friendly interface built with Material-UI and React.js.  
 
 ## Technology Stack  
 **Frontend**  
