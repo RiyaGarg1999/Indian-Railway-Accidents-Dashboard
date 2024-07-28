@@ -19,10 +19,10 @@ const DarkLightMode = () => {
                 onChange={toggleTheme} // Handle theme toggle
                 checked={themeMode === 'dark'} // Check if themeMode is 'dark'
             />
-            <label className='dark_mode_label' htmlFor='darkmode-toggle'> // Label for the input
-                <Sun className={`mode-icon sun-icon ${themeMode === 'light' ? 'visible' : 'hidden'}`} /> // Sun icon with conditional classes
-                <Moon className={`mode-icon moon-icon ${themeMode === 'dark' ? 'visible' : 'hidden'}`} /> // Moon icon with conditional classes
-                <span className="slider"></span> // Slider span
+            <label className='dark_mode_label' htmlFor='darkmode-toggle'>
+                <Sun className="mode-icon sun-icon" />
+                <Moon className="mode-icon moon-icon" />      
+                <span className="slider"></span>
             </label>
         </div>
     );
